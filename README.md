@@ -21,7 +21,7 @@ The DAW|CTRL button works as expected. However, you might have no reason to use 
 
 All in all this controller script is pretty complete and well integrated!
 
-# Room for improvement
+## Room for improvement
 
 The three markers buttons are not assigned to any function. Any suggestions about how could they be used? Maybe use the marker left/right buttons to navigate between scenes, and the marker button to record or play the specific scene where the cursor is in?
 
